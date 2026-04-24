@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+  "appName": "Smart Audio Analysis",
+
+  "onboarding_title": "Discover Your Music",
+  "onboarding_subtitle": "Let AI recognize any song in seconds",
+  "onboarding_desc": "Record your voice or upload a file, and our AI will reveal the song name, artist, and all its details",
+  "get_started": "Get Started",
+
+  "home_title": "Audio Analysis",
+  "home_subtitle": "Upload or record to discover any song",
+
+  "upload_file": "Upload Audio File",
+  "upload_desc": "MP3, MP4, or any audio format",
+
+  "record_audio": "Record Audio",
+  "record_desc": "Tap to record and discover the song",
+
+  "analyzing": "Analyzing...",
+  "analysis_result": "Analysis Result",
+
+  "song_name": "Song Name",
+  "artist_name": "Artist",
+  "description": "Description",
+
+  "listen_youtube": "Listen on YouTube",
+  "listen_spotify": "Listen on Spotify",
+
+  "no_links": "No links available",
+  "try_again": "Try Again",
+
+  "error_title": "An Error Occurred",
+  "error_desc": "We couldn't analyze the audio",
+
+  "recording": "Recording...",
+  "stop_recording": "Stop Recording",
+  "start_recording": "Start Recording",
+
+  "file_selected": "File Selected",
+  "change_language": "Arabic",
+
+  "tap_to_record": "Tap to Record",
+  "or_divider": "OR",
+
+  "confidence": "Confidence",
+  "genre": "Genre",
+  "year": "Year",
+
+  "api_key_hint": "Enter API Key",
+
+  "settings": "Settings",
+  "save": "Save",
+  "api_key_saved": "Key Saved",
+  "no_api_key": "Please enter API key"
+}

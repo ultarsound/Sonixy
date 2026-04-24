@@ -1,0 +1,57 @@
+{
+  "@@locale": "ar",
+
+  "appName": "تحليل صوتي ذكي",
+
+  "onboarding_title": "اكتشف موسيقاك",
+  "onboarding_subtitle": "دع الذكاء الاصطناعي يتعرف على أي أغنية",
+  "onboarding_desc": "سجل صوتك أو ارفع ملف وسيتم التحليل",
+
+  "get_started": "ابدأ الآن",
+
+  "home_title": "تحليل الصوت",
+  "home_subtitle": "ارفع أو سجل صوت",
+
+  "upload_file": "رفع ملف صوتي",
+  "upload_desc": "MP3 أو MP4",
+
+  "record_audio": "تسجيل صوتي",
+  "record_desc": "اضغط للتسجيل",
+
+  "analyzing": "جاري التحليل...",
+  "analysis_result": "نتيجة التحليل",
+
+  "song_name": "اسم الأغنية",
+  "artist_name": "الفنان",
+  "description": "الوصف",
+
+  "listen_youtube": "يوتيوب",
+  "listen_spotify": "سبوتيفاي",
+
+  "no_links": "لا توجد روابط",
+  "try_again": "حاول مرة أخرى",
+
+  "error_title": "خطأ",
+  "error_desc": "فشل التحليل",
+
+  "recording": "تسجيل...",
+  "stop_recording": "إيقاف",
+  "start_recording": "بدء",
+
+  "file_selected": "تم اختيار الملف",
+  "change_language": "English",
+
+  "tap_to_record": "اضغط للتسجيل",
+  "or_divider": "أو",
+
+  "confidence": "نسبة الثقة",
+  "genre": "النوع",
+  "year": "السنة",
+
+  "api_key_hint": "أدخل مفتاح API",
+
+  "settings": "الإعدادات",
+  "save": "حفظ",
+  "api_key_saved": "تم الحفظ",
+  "no_api_key": "أدخل المفتاح"
+}
