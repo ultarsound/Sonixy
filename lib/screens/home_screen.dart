@@ -53,7 +53,6 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
     super.dispose();
   }
 
-  // 🔥 ANALYZE FILE (NO API KEY CHECK ANYMORE)
   Future<void> _analyzeFile(String path) async {
     setState(() {
       _isAnalyzing = true;

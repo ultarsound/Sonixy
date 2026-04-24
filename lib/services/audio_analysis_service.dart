@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import '../models/song_analysis.dart';
 
 class AudioAnalysisService {
-  static const String apiToken = "2500e15f082fb496fed4f3c27c27a92d";
+  static const String apiToken = "";
 
   Future<SongAnalysis> analyzeAudioFile(String filePath) async {
     try {

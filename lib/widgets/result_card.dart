@@ -165,7 +165,6 @@ class _LinkButton extends StatelessWidget {
         if (url != null && url!.isNotEmpty) {
           finalUrl = url!;
         } else {
-          /// ✅ FIX: encode query properly
           final query = Uri.encodeComponent("$songName $artistName");
 
           if (isYoutube) {

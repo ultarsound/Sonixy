@@ -2,8 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class PaymobService {
-  static const String _apiKey =
-      "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2TVRFMU5qUTJNU3dpYm1GdFpTSTZJbWx1YVhScFlXd2lmUS5icFlQTXFqMlJISkpPbmJjei13b3VORmpGNHNLajZ5Q01aQ0NGOVVTb1p4dkdiSTgyc3draUZJMnpsUkZWRVpGcUdrSDRFa2h5azVuWVB5bjU2Qm9Ldw==";
+  static const String _apiKey = "";
   static const int _integrationId = 123456;
   static const String _authUrl = "https://accept.paymob.com/api/auth/tokens";
 
